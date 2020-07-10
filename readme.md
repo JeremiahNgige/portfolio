@@ -8,11 +8,13 @@
  }
  Scroll down again to the the footer section that contains My contact information.
  <br/>
- 
+
 ## Technologies Used
-{Html<br/>css}
+Html<br/>css
 ## Support and contact details
-{Contact :**brianjeremy123789@gmail.com**}
+Contact :**brianjeremy123789@gmail.com**
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {2020} **{x<br/>yz<br/>xyz<br/>Ngige brian}**
+Copyright (c) {2020} 
+## Contributors
+**x<br/>yz<br/>xyz<br/>Ngige brian**
