@@ -1,0 +1,21 @@
+body{
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    width: auto;
+    height: 630px;
+    background-image: url();
+    background-color: rgba(0, 0, 0, 0.096);
+}
+main{
+    width: auto;
+    height: 700px;
+    background-color: rgba(245, 245, 245, 0.61);
+}
+footer{
+    color: white;
+    width: auto;
+    height: 20rem;
+    background-color: rgba(0, 0, 0, 0.329);
+}
