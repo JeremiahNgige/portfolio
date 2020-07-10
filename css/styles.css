@@ -1,8 +1,8 @@
 html, body{
-    display: block;
     font-family: Arial, Helvetica, sans-serif;
     margin : 0;
     padding: 0;
+    color: yellow;
 }
 .header{
     width: auto;
@@ -19,5 +19,8 @@ footer{
     width: auto;
     height: 20rem;
     background-color: rgba(0, 0, 0, 0.329);
+}
+.img-hdr{
+
 }
 
